@@ -2,7 +2,11 @@
 
 This code is for a sensor for the car revarse.
 
-
+## what you need
+arduino uno
+HC-SR505
+LED
+registor 150 
 
 ## Introduction
 
